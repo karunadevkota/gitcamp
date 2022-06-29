@@ -1,0 +1,70 @@
+.starts-container
+{ 
+    display: flex;
+ flex-direction: row;
+ 
+ justify-content: space-between;
+}
+#img-container
+{
+   
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+.startsimg
+{
+    height: 300px;
+    width: 350px;
+}
+#skill-container
+{
+    flex:1;
+
+}
+.skill-tittle
+{
+    font-weight: bold;
+    font-size: 30px;
+
+}
+.skill-desc
+{
+    font-size: 12px;
+    font-weight:lighter;
+}
+.icon-container
+{ 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:35px 30px ;
+
+}
+.tittle-per-container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tittle-text
+{
+    font-size:12px ;
+    font-weight: lighter;
+    margin: 0px;
+}
+.per-text
+{
+font-size: 16px;
+font-weight: bold;
+padding: 0;
+}
+.downl-txt
+{
+    font-size: 16px;
+    font-weight: bold;
+    padding:0;
+    color: brown;
+}
