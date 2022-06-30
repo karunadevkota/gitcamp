@@ -1,0 +1,115 @@
+/*
+.starts-container
+{ 
+    display: flex;
+ flex-direction: row;
+ 
+ justify-content: space-between;
+}
+
+.design
+{
+    height: 300px;
+    width: 350px;
+}
+
+.txt
+{
+    font-size:12px ;
+    font-weight: lighter;
+    margin: 0px;
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+.comp
+{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.icon
+{
+    height: 10px;
+    width: 10px; 
+}
+.client
+{ 
+    display: flex;
+ flex-direction: row;
+ 
+ justify-content: space-between;
+}
+.div1
+{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    font-weight: bold;
+    font-size: 30px;
+}
+.div2
+{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+    .client-icon
+    {
+width: 562px;
+height: 49px;
+left: 976px;
+top: 2588px;
+    
+}
+*/
+
+
+.skills-conatiner
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.graph
+{
+    flex:1;
+    align-items: center;
+    justify-content: center;
+
+}
+.gimg
+{
+    height:300px ;
+    width: 350px;
+}
+.skills
+{
+    flex: 1;
+
+}
+.txt1
+{
+    font-weight: bold;
+    color: bisque;
+    
+    font-size: 42px;
+    font-style:normal ;
+}
+.txt2
+{
+    font-weight: lighter;
+    font-size: 20px;
+}
